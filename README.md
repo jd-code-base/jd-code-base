@@ -22,8 +22,8 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 - Encourage contribution and open-source culture
 
 🔗 Visit: [jdcodebase.in](https://jdcodebase.vercel.app/)  
-📺 YouTube: [@JDCodebase](https://www.youtube.com/@jdcodebase-en)  
-📂 GitHub Org: [github.com/JDCodebase](https://github.com/jd-code-base)
+📺 YouTube: [@JDCodebase](https://www.youtube.com/@JDCodebase)  
+📂 GitHub Org: [github.com/JDCodebase](https://github.com/jdcodebase)
 
 ---
 
@@ -44,10 +44,10 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 
 ## 📌 Highlight Projects
 
-- 🔗 [JDCodeBase Website](https://github.com/jd-code-base/jdcodebase-platform)  
+- 🔗 [JDCodeBase Website](https://github.com/jdcodebase/jdcodebase-platform)  
   A clean, static site built with **Next.js + TailwindCSS** showcasing tutorials, DSA content, and downloadable resources.
 
-- 🔗 [Daily DSA Problems](https://github.com/jd-code-base/dsa-daily-javascript)  
+- 🔗 [Daily DSA Problems](https://github.com/jdcodebase/jdcodebase-dsa-series)  
   A growing collection of **LeetCode-style problems** with structured solutions and video explanations.
 
 ---
@@ -56,7 +56,7 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jd-code-base&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-code-base&layout=compact&theme=radical&hide_border=true)
-![LeetCode Stats](https://leetcard.jacoblin.cool/jd_codebase?theme=dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jdcodebase?theme=dark&font=Montserrat&ext=heatmap)
 
 ---
 
@@ -65,7 +65,7 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 - 📧 jatindhamija025@gmail.com  
 - 🌐 [Portfolio Website](https://jdcodebase.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatin-dhamija-jd/)
-- 🧠 [LeetCode](https://leetcode.com/u/jd_codebase/)  
+- 🧠 [LeetCode](https://leetcode.com/u/jdcodebase/)  
 - 🔗 [JDCodeBase](https://jdcodebase.vercel.app/)
 
 ---
