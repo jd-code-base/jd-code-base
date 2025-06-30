@@ -21,7 +21,7 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 - Offer downloadable resources for learners
 - Encourage contribution and open-source culture
 
-🔗 Visit: [jdcodebase.in](https://jdcodebase.vercel.app/)  
+🔗 Visit: [jdcodebase](https://jdcodebase.vercel.app/)  
 📺 YouTube: [@JDCodebase](https://www.youtube.com/@JDCodebase)  
 📂 GitHub Org: [github.com/JDCodebase](https://github.com/jdcodebase)
 
