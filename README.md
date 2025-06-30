@@ -54,8 +54,8 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 
 ## 📈 Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jd-code-base&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-code-base&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdcodebase&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcodebase&layout=compact&theme=radical&hide_border=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jdcodebase?theme=dark&font=Montserrat&ext=heatmap)
 
 ---
